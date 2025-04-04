@@ -4,12 +4,12 @@ import { initializeAuth, getReactNativePersistence } from 'firebase/auth';
 import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDCyyZ-EYbVtmyr7eEH9uTEDthV_RetFIQ",
-  authDomain: "ketan-project-f79a7.firebaseapp.com",
-  projectId: "ketan-project-f79a7",
-  storageBucket: "ketan-project-f79a7.firebasestorage.app",
-  messagingSenderId: "391565266590",
-  appId: "1:391565266590:web:dabf03b0df2b5ead23358f"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 const app = initializeApp(firebaseConfig);
