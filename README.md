@@ -11,17 +11,21 @@ This is a full-featured e-commerce mobile application built with React Native an
 
 ## Screenshots
 <div class="inline-block">
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%201.png" alt="Screenshot 1" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%201.png" alt="Screenshot 1" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%202.png" alt="Screenshot 2" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%202.png" alt="Screenshot 2" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%203.png" alt="Screenshot 3" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%203.png" alt="Screenshot 3" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%204.png" alt="Screenshot 4" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%204.png" alt="Screenshot 4" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%205.png" alt="Screenshot 5" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%205.png" alt="Screenshot 5" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%206.png" alt="Screenshot 6" width="200">
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%206.png" alt="Screenshot 6" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%207.png" alt="Screenshot 7" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/StoreApp/blob/main/Screenshot%208.png" alt="Screenshot 8" width="200">
 </div>
 
 ## Setup Instructions
